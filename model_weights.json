@@ -1,0 +1,43 @@
+{
+  "teams": [
+    "Chennai Super Kings",
+    "Delhi Daredevils",
+    "Kings XI Punjab",
+    "Kolkata Knight Riders",
+    "Mumbai Indians",
+    "Rajasthan Royals",
+    "Royal Challengers Bangalore",
+    "Sunrisers Hyderabad"
+  ],
+  "coefficients": {
+    "bat_Chennai Super Kings": 1.1100696957077596,
+    "bat_Delhi Daredevils": -2.231487867588605,
+    "bat_Kings XI Punjab": 0.6099435731173036,
+    "bat_Kolkata Knight Riders": -2.929620045517251,
+    "bat_Mumbai Indians": 2.8909465706962605,
+    "bat_Rajasthan Royals": -3.6757265154249126,
+    "bat_Royal Challengers Bangalore": 3.8836134376141316,
+    "bat_Sunrisers Hyderabad": 0.6105947889543177,
+    "bowl_Chennai Super Kings": 0.167939442707093,
+    "bowl_Delhi Daredevils": 0.8869491477039542,
+    "bowl_Kings XI Punjab": 1.6464047520698089,
+    "bowl_Kolkata Knight Riders": -3.3294148293263692,
+    "bowl_Mumbai Indians": 0.22674826543002083,
+    "bowl_Rajasthan Royals": 0.3247326288057306,
+    "bowl_Royal Challengers Bangalore": 0.7222854069045325,
+    "bowl_Sunrisers Hyderabad": -0.3821065192875562,
+    "overs": -6.371272072040358,
+    "runs": 0.9632020258144371,
+    "wickets": -4.8854098909319426,
+    "runs_last_5": -0.01670462212886034,
+    "wickets_last_5": -1.15508420368663
+  },
+  "intercept": 165.6663367019631,
+  "metrics": {
+    "mae": 12.12,
+    "mse": 251.01,
+    "rmse": 15.84,
+    "train_samples": 37330,
+    "test_samples": 2778
+  }
+}
