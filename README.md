@@ -50,30 +50,6 @@ npm run build
 
 ---
 
-## 🌐 How to Deploy to Vercel
-
-Since you already use Vercel ([suyashs-projects-8d8c18dc](https://vercel.com/suyashs-projects-8d8c18dc)), deploying this ML project is as simple as deploying any standard React/Next.js app:
-
-### Step 1: Push Changes to GitHub
-```bash
-git add .
-git commit -m "Add React frontend and Vercel serverless ML deployment"
-git push origin main
-```
-
-### Step 2: Import into Vercel
-1. Go to your [Vercel Dashboard](https://vercel.com/suyashs-projects-8d8c18dc).
-2. Click **"Add New..."** &rarr; **"Project"**.
-3. Select your GitHub repository: `suyashg-22/IPL-Score-Prediction`.
-4. Vercel automatically detects the **Vite** preset and sets:
-   - **Framework Preset**: Vite
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-5. Click **"Deploy"**!
-
-Your app will be live at `https://ipl-score-prediction-xxxx.vercel.app`! Any future `git push` to `main` will automatically trigger a new deployment.
-
----
 
 ## 🔌 Serverless REST API Endpoint
 
